@@ -1,2 +1,2 @@
 # QuickLaunch
-A QuickLaunch Tools by QT
+A QuickLaunch Tool Code by QT
